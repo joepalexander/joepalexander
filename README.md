@@ -24,5 +24,6 @@
 <!--START_SECTION:waka-->
 ```text
 PowerShell   1 hr 14 mins    █████████████████████████   99.63 % 
+SQL
 ```
 <!--END_SECTION:waka-->
