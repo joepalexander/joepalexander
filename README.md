@@ -23,6 +23,6 @@
 📊 This week I spent my time on:
 <!--START_SECTION:waka-->
 ```text
-No Activity trasdrtrtrecked this Week
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
