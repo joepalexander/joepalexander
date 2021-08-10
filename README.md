@@ -23,6 +23,6 @@
 📊 This week I spent my time on:
 <!--START_SECTION:waka-->
 ```text
-PowerShell   1 hr 14 mins    █████████████████████████   99.63 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
