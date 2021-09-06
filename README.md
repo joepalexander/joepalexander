@@ -30,3 +30,6 @@ Batchfile    19 mins         █░░░░░░░░░░░░░░░░
 Go           13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 <!--END_SECTION:waka-->
+
+
+![](goodSoup.gif)
