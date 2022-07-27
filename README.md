@@ -2,9 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-XML          1 hr 10 mins    ████████████████▓░░░░░░░░   67.07 %
-CSV          13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
-Other        12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
