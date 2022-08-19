@@ -2,10 +2,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-PowerShell   1 hr 29 mins    ████████▒░░░░░░░░░░░░░░░░   33.06 %
-TypeScript   51 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
-JavaScript   36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-Other        35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+PowerShell   44 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
+JavaScript   36 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
+TypeScript   27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
+Other        17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
 ```
 
 <!--END_SECTION:waka-->
