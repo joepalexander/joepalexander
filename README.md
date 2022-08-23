@@ -2,10 +2,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 31 mins   ███████████████▓░░░░░░░░░   63.04 %
-PowerShell   44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
-TypeScript   24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-Other        18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+JavaScript   4 hrs 24 mins   ████████████████▒░░░░░░░░   65.84 %
+PowerShell   44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+Other        27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
 ```
 
 <!--END_SECTION:waka-->
