@@ -9,5 +9,3 @@ Other        27 mins         █▒░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
-![](goodSoup.gif)
