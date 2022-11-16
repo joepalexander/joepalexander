@@ -2,11 +2,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-SQL          11 hrs 18 mins  █████████████░░░░░░░░░░░░   51.59 %
-PowerShell   4 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-JavaScript   3 hrs 44 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
-Python       1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Other        1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+SQL          10 hrs 29 mins  █████████████░░░░░░░░░░░░   52.13 %
+PowerShell   4 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+JavaScript   4 hrs           █████░░░░░░░░░░░░░░░░░░░░   19.95 %
+Other        1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
 ```
 
 <!--END_SECTION:waka-->
