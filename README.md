@@ -2,10 +2,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       8 hrs 18 mins   █████████████▓░░░░░░░░░░░   54.33 %
-JavaScript   5 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   36.81 %
-PowerShell   52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Other        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Python       5 hrs 33 mins   █████████████▒░░░░░░░░░░░   53.93 %
+JavaScript   3 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   35.85 %
+PowerShell   52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
